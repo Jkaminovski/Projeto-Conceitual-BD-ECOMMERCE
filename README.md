@@ -44,7 +44,8 @@ Refine o modelo conceitual, adicionando os seguintes pontos:
   - **Status**  
   - **Código de rastreio**
 
-![Diagrama do Projeto](https://github.com/Jkaminovski/Projeto-Conceitual-BD-ECOMMERCE/raw/e21c4aa6f9df8364b0f781f8702756c78595913a/caminho/para/a/imagem.png)
+### 🖼️ Diagrama do Projeto
+![Diagrama do Projeto](https://github.com/Jkaminovski/Projeto-Conceitual-BD-ECOMMERCE/blob/main/Diagrama_Ecommerce.png)
 
 ---
 
